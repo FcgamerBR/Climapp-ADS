@@ -6,7 +6,7 @@ Um novo projeto em Flutter.
 
 Este projeto é um ponto de partida para um aplicativo utilizando o Flutter.
 
-Alguns recursos para você começar se este for seu primeiro projeto Flutter:
+Se você também quiser iniciar no Flutter, aqui estão alguns recursos que podem te ajudar a começar:
 
 - [Laboratório: Escreva seu primeiro aplicativo Flutter](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
