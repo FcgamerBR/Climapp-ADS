@@ -2,7 +2,7 @@
 
 Um novo projeto em Flutter.
 
-## Getting Started
+## Apenas no iniciando...
 
 Este projeto é um ponto de partida para um aplicativo utilizando o Flutter.
 
