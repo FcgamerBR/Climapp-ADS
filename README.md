@@ -2,7 +2,7 @@
 
 Um novo projeto em Flutter.
 
-## Apenas no iniciando...
+## Apenas no inicio...
 
 Este projeto é um ponto de partida para um aplicativo utilizando o Flutter.
 
